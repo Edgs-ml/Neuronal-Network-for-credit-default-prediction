@@ -9,6 +9,10 @@ Esto se va a ver como teto en sitio web
 ```{r}
 install.packages("tidyverse")
 install.packages("tidymodels")
+install.packages("fansi")
+library(fansi)
+library(tidyverse)
+library(tidymodels)
 ```
 
 
