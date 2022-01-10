@@ -1,0 +1,17 @@
+---
+title: "Neuronal Networks for Credit Default Prediction 2"
+subtitle: "First try"
+author: "Edgar Sigfrido Soto Aparicio"
+date: "1/10/2022"
+output: html_document
+---
+Esto se va a ver como teto en sitio web
+```{r}
+install.packages("tidyverse")
+install.packages("tidymodels")
+```
+
+
+
+
+
