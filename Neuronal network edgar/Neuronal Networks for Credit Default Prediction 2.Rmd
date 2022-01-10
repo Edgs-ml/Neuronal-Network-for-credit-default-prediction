@@ -9,8 +9,17 @@ Esto se va a ver como teto en sitio web
 ```{r}
 install.packages("tidyverse")
 install.packages("tidymodels")
+install.packages("Rtools")
+library(tidymodels)
+library(tidyverse)
+library(readr)
+
 ```
 
+```{r}
+head(Data)
+
+```
 
 
 
