@@ -2,6 +2,7 @@ install.packages("caret")
 install.packages("ellipse")
 install.packages("kernlab")
 install.packages("randomForest")
+library(tidyverse)
 library(caret)
 
 #Cargar datos
