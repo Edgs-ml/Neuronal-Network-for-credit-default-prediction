@@ -1,0 +1,29 @@
+---
+title: "Data logit prediction of default"
+subtitle: "First use of TidyModels, MetBrewer and other libraries"
+author: "Edgar Sigfrido Soto Aparicio"
+date: "01/22/2022"
+output: html_notebook
+---
+1. Load libraries
+```{r}
+library(tidyverse)
+library(tidymodels)
+library(readr)
+library(knitr)
+library(MetBrewer)
+```
+2. Load database 
+```{r}
+data <- read.csv("~/Documents/GitHub/Neuronal-Network-for-credit-default-prediction/Neuronal network edgar/Data.csv")
+
+```
+
+
+
+
+
+
+
+
+
